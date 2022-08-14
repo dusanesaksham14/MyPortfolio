@@ -1,4 +1,4 @@
-# Dopefolio 🔥
+# Dufolio 🔥
 
 ## A Blazing Fast Multipage Portfolio Template for Developers 🚀
 
